@@ -6,5 +6,5 @@
 
 #### Index 
 
-<img src = "Index.PNG" alt="Course Index" width="500" height="500">
+<img src = "Index.PNG" alt="Course Index" width="500" height="350">
 
