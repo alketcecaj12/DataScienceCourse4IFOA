@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "name": "Alket",
+    "math": 90,
+    "physics": 95,
+    "chemistry": 81
+  },
+  {
+    "id": "2",
+    "name": "Sasha",
+    "math": 99,
+    "physics": 87,
+    "chemistry": 91
+  },
+  {
+    "id": "3",
+    "name": "Jenny",
+    "math": 89,
+    "physics": 90,
+    "chemistry": 98
+  }
+]
